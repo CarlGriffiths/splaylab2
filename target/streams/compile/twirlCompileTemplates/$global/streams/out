@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0m[Error] /home/wdd/webapps/lab2/app/views/addProduct.scala.html:35[0m
+[0m[[0m[31merror[0m] [0m[0m    }: Not parsed?[0m
+[0m[[0m[31merror[0m] [0m[0m(compile:[31mtwirlCompileTemplates[0m) Twirl compilation failed[0m
